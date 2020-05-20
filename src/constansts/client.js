@@ -1,0 +1,3 @@
+export default {
+  RECAPTCHA_SITE_KEY: '6Le9xmMUAAAAAAVUcFiBRq_dbFDhWCo8wE1Ta7DT',
+};
